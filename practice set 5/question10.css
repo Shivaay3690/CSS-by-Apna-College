@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(20, 209, 222);
+    border: 2px solid black;
+    background-image: url("abd.jpg");
+    background-size: cover;
+    color: azure;
+    position: absolute;
+    right: 0px;
+}

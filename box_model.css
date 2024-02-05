@@ -1,0 +1,23 @@
+  h1 {
+    height: 700px;
+    width: 250px;
+    background-color: red;
+
+  }
+  div {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border :10px solid rgb(9, 220, 125);
+    padding-top: 30px;
+    padding-left: 35px;
+    padding-left: 30px;
+    /* padding: 25px; */
+    /* padding: 5px 10px 15px 20px  ; */
+    margin: 10px;
+    border-radius: 50%;
+}
+ 
+/* div {
+    border-radius: 50%;
+} */

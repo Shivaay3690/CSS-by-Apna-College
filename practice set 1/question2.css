@@ -1,0 +1,22 @@
+h1{
+    height: auto;
+    width: auto;
+    color: blue;
+    background-color: #74ef7a;
+    text-align: center;
+}
+h2{
+    height: auto;
+    width: auto;
+    color: yellowgreen;
+    background-color: rgb(236, 28, 28);
+    text-align: center;
+}
+h3{
+    height: auto;
+    width: auto;
+    color: red;
+    background-color: blueviolet;
+    font-style: italic;
+    text-align: center;
+}

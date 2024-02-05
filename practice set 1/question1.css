@@ -1,0 +1,52 @@
+ #new{
+    height: 560px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: black;
+    /* margin: 0px; */
+    margin-left: 400px;
+    text-align: center;
+    color: rgb(158, 70, 185);
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bolder;
+ }
+ #box{
+    height:120px;
+    width: 120px;
+    border-radius: 50%;
+    background-color: red;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+#myclass {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    background-color: green;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 40px;
+   
+}
+#Myid {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    background-color: yellow;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 40px;
+ 
+}
+/* p {
+height: 50px;
+width: 200px;
+font-size:xx-large;
+text-decoration: solid;
+font-family: Arial, Helvetica, sans-serif;
+background-color: aquamarine;
+margin-left: 550px;
+text-align: center;
+} */

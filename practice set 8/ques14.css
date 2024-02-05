@@ -1,0 +1,16 @@
+#loader{
+    height: 200px;
+    width: 200px;
+    border: 20px solid #12f6df;
+    border-top: 20px solid  #f5c114;
+    border-radius: 50%;
+    animation: spinAnimate 1s ease-in 0s infinite normal;
+}
+@keyframes spinAnimate{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+         transform: rotate(360deg);
+    }
+}
